@@ -3,7 +3,7 @@ Open-Weather 是一个开源的气象数据获取项目
 
 # 工具
 ## q-weather
-运行`qweather.py`可获取由[q-weather.info](http://q-weather.info)提供的国内五分钟实况数据
+运行`q-weather/qweather.py`可获取由[q-weather.info](http://q-weather.info)提供的国内五分钟实况数据
 ### 要求
 程序基于Python3，**需要安装`requests`库**
 ### 配置文件
